@@ -851,4 +851,8 @@
     <string name="qs_datausage_daily">Daily usage</string>
     <string name="qs_datausage_monthly">Monthly usage</string>
 
+    <!-- FOD animations -->
+    <string name="fod_recog_animation">FOD recognizing animation</string>
+    <string name="fod_recog_animation_summary">Shows an animation while reading your finger</string
+
 </resources>
